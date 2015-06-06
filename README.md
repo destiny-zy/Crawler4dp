@@ -1,2 +1,2 @@
 # myCrawl
-crawl shop and reviews from common dianping  --based on spring boot
+crawl shop and reviews from common dianping 
